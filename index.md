@@ -11,4 +11,4 @@ Experienced Software Engineer with strong knowledge in Software Engineering, Con
 - Bsc ...
 
 ## Skills
-- C, C++ (11, 14, 17), Python, D and other rarely used (Java, Rust, Go)
+- C, C++ (11, 14, 17), Python, D and other (rarely used Java, Rust, Go)
